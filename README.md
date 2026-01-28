@@ -11,7 +11,7 @@
 
 Si prefieres **texto plano**, usa esta versión (más corta y estable):
 
-```md
+
 ## 🧩 Arquitectura del Sistema
 
 Frontend (Angular)
